@@ -14,7 +14,7 @@ You just need to excute the following codes:
 > noise_path = '' # the absolute path for noise data, you can download the corpus from 'http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html'
 > ```
 
-After performing the above commands, you can get the LS-2mix and LS-2mixNoise dataset in our paper. 
+then you can get the LS-2mix and LS-2mixNoise dataset in our paper. 
 
 
 

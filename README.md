@@ -20,5 +20,7 @@ then you can get the LS-2mix and LS-2mixNoise dataset in our paper.
 
 ### References
 
+http://www.merl.com/demos/deep-clustering/create-speaker-mixtures.zip
+
 https://github.com/yluo42/TAC/tree/master/data
 
